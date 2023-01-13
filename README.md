@@ -11,6 +11,14 @@
 
 Найти возможные аномалии в транзакциях
 
+users
+
+<img width="397" alt="Снимок экрана 2023-01-13 в 12 52 57" src="https://user-images.githubusercontent.com/113179175/212290836-26392bd7-a1b5-4ef9-90c5-9cf99a810dd9.png">
+
+transactions
+
+<img width="550" alt="Снимок экрана 2023-01-13 в 12 53 41" src="https://user-images.githubusercontent.com/113179175/212290971-bb23559a-d49b-4de3-8a43-8c989082765f.png">
+
 # Summary
 
 ### Сегментация
